@@ -41,7 +41,7 @@ This approach provides a more statistically reliable way to rank books compared 
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/goodreads-smart-sorter/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/HzaCode/goodreads-smart-sorter/issues).
 
 ## License
 
