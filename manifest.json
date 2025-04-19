@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Goodreads Book Auto Sort with Bayesian Average",
+  "version": "1.1",
+  "description": "Automatically fetches and sorts Goodreads search results using a Bayesian weighted rating.",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.goodreads.com/search?*",
+        "https://www.goodreads.com/search/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
