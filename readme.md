@@ -14,7 +14,7 @@ Goodreads' standard sorting options primarily use simple metrics like average ra
 ## Demo
 
 See how easy it is to use in this short video:
-[Watch Demo Video](demo.mp4) 
+[Watch Demo Video](https://github.com/user-attachments/assets/ab60011a-0679-4184-9b3f-b7952dbda3b9)
 
 ## How to Use (Once the Extension is Approved & Installed)
 
