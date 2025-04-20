@@ -1,6 +1,13 @@
-# Goodreads Smart Sorter
 
-<!-- Add badges here -->
+
+
+Goodreads Smart Sorter<img src="https://github.com/HzaCode/goodreads-smart-sorter/blob/main/logo.jpg?raw=true" width="150" height="150" align="right" />
+==================== 
+
+
+
+
+
 [![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-Pending%20Review-orange)]([]) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
