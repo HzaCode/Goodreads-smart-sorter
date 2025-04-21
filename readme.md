@@ -28,7 +28,7 @@ See how easy it is to use in this short video:
 Using the Smart Sorter involves these steps:
 
 1.  **Install the extension** from the [Chrome Web Store](https://chromewebstore.google.com/detail/goodreads-smart-sort/plmelbcjajggffbbmopjdaepijjkdmid?utm_source=item-share-cb).
-2.  **Perform any book search** on the Goodreads website.
+2.  **Perform any book search** on the [Goodreads website](https://www.goodreads.com).
 3.  On the search results page, **activate the Smart Sorter** (look for a button or icon added by the extension).
 4.  **Select the number of search results** you wish to apply the smart sort to (e.g., sort the top 50, 100, etc., results displayed).
 5.  The extension will then **automatically re-sort** the specified number of search results based on the weighted rating algorithm.
