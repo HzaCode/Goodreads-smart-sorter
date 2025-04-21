@@ -8,7 +8,7 @@ Goodreads Smart Sorter<img src="https://github.com/HzaCode/goodreads-smart-sorte
 
 
 
-[![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-View%20on%20Store-orange)](https://chromewebstore.google.com/detail/plmelbcjajggffbbmopjdaepijjkdmid?utm_source=item-share-cb)
+[![Install Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-Install-orange)](https://chromewebstore.google.com/detail/goodreads-smart-sort/plmelbcjajggffbbmopjdaepijjkdmid?utm_source=item-share-cb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A Chrome Extension providing smarter, more nuanced sorting options for your Goodreads books, inspired by the kind of powerful sorting available on sites like IMDb.
@@ -27,7 +27,7 @@ See how easy it is to use in this short video:
 
 Using the Smart Sorter involves these steps:
 
-1.  **Install the extension** from the Chrome Web Store (link below - currently pending review).
+1.  **Install the extension** from the [Chrome Web Store](https://chromewebstore.google.com/detail/goodreads-smart-sort/plmelbcjajggffbbmopjdaepijjkdmid?utm_source=item-share-cb).
 2.  **Perform any book search** on the Goodreads website.
 3.  On the search results page, **activate the Smart Sorter** (look for a button or icon added by the extension).
 4.  **Select the number of search results** you wish to apply the smart sort to (e.g., sort the top 50, 100, etc., results displayed).
