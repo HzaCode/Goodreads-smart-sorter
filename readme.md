@@ -4,12 +4,13 @@
 Goodreads Smart Sorter<img src="https://github.com/HzaCode/goodreads-smart-sorter/blob/main/logo.jpg?raw=true" width="150" height="150" align="right" />
 ==================== 
 
+<a href="https://chromewebstore.google.com/detail/goodreads-smart-sort/plmelbcjajggffbbmopjdaepijjkdmid?utm_source=item-share-cb" target="_blank" rel="noopener noreferrer">
+  <img src="https://developer.chrome.com/static/docs/webstore/branding/image/206x58-chrome-web-043497a3d766e.png" alt="Install from Chrome Web Store" width="250"> 
+ 
+</a> 
+<br/> 
 
 
-
-
-[![Install Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-Install-orange)](https://chromewebstore.google.com/detail/goodreads-smart-sort/plmelbcjajggffbbmopjdaepijjkdmid?utm_source=item-share-cb)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A Chrome Extension providing smarter, more nuanced sorting options for your Goodreads books, inspired by the kind of powerful sorting available on sites like IMDb.
 
